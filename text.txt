@@ -1,1 +1,2 @@
 feature write 1
+master write 1
