@@ -1,2 +1,3 @@
 feature write 1
 master write 1
+table name is 'feature'
